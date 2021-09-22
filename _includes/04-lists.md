@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# List of favourite things:
+- Listen to silent Music
+- Travelling
